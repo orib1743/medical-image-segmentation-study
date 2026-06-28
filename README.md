@@ -25,8 +25,8 @@ Dataset preparation
 ↓  
 Segmentation model training  
 ↓  
-Mask prediction  
-↓
+Mask prediction 
+↓  
 Retrieval-based patient similarity analysis  
 ↓  
 LLM-powered assistant for clinical decision support
