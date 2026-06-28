@@ -1,7 +1,8 @@
 # Medical Image Segmentation for Wound Detection
 
 ## Overview
-This project focused on automated anonymization of medical images and generation of segmentation masks based on human annotations.
+This project focused on automated anonymization of medical images and generation of segmentation masks based on human annotations, 
+as part of the development of a RAG-based medical recommendation system powered by a Large Language Model.
 
 ## Problem
 Medical images contained sensitive patient information that had to be removed before analysis.
@@ -25,6 +26,10 @@ Dataset preparation
 Segmentation model training  
 ↓  
 Mask prediction  
+↓ 
+Retrieval-based patient similarity analysis  
+↓  
+LLM-powered assistant for clinical decision support
 
 ## Technologies
 - Python
