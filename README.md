@@ -37,6 +37,7 @@ Retrieval-Based Patient Similarity Analysis
    │
    ▼
 LLM-Powered Clinical Decision Support
+```
 
 ## Technologies
 - Python
