@@ -17,19 +17,26 @@ We built a preprocessing and training pipeline that:
 
 ## Architecture
 
-Images  
-↓  
-Anonymization pipeline  
-↓  
-Dataset preparation  
-↓  
-Segmentation model training  
-↓  
-Mask prediction 
-↓  
-Retrieval-based patient similarity analysis  
-↓  
-LLM-powered assistant for clinical decision support
+```text
+Images
+   │
+   ▼
+Anonymization Pipeline
+   │
+   ▼
+Dataset Preparation
+   │
+   ▼
+Segmentation Model Training
+   │
+   ▼
+Mask Prediction
+   │
+   ▼
+Retrieval-Based Patient Similarity Analysis
+   │
+   ▼
+LLM-Powered Clinical Decision Support
 
 ## Technologies
 - Python
